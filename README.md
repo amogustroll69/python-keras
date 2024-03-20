@@ -6,7 +6,7 @@ The Arch repositories have mismatching Tensorflow and Keras package versions, so
 
 # How to install
 ```sh
-git clone https://github.com/krillissue/python-keras.git
+git clone https://github.com/amogustroll69/python-keras.git
 cd python-keras
 makepkg -si
 ```
